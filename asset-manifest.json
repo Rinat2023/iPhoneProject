@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iPhoneProject/static/css/main.f37bac73.css",
+    "main.js": "/iPhoneProject/static/js/main.e0fe09fe.js",
+    "index.html": "/iPhoneProject/index.html",
+    "main.f37bac73.css.map": "/iPhoneProject/static/css/main.f37bac73.css.map",
+    "main.e0fe09fe.js.map": "/iPhoneProject/static/js/main.e0fe09fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37bac73.css",
+    "static/js/main.e0fe09fe.js"
+  ]
+}
